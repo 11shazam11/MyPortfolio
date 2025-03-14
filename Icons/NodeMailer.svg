@@ -1,0 +1,9 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><rect id="r4" width="512" height="512" x="0" y="0"  fill="#fff" stroke="#FFFFFF" stroke-width="0" stroke-opacity="100%" paint-order="stroke"></rect><clipPath id="clip"><use xlink:href="#r4"></use></clipPath><defs><linearGradient id="r5" gradientUnits="userSpaceOnUse" gradientTransform="rotate(45)" style="transform-origin: center center;"><stop stop-color="#fff"></stop><stop offset="1" stop-color="#0F9DCE"></stop></linearGradient><radialGradient id="r6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256) rotate(90) scale(512)"><stop stop-color="white"></stop><stop offset="1" stop-color="white" stop-opacity="0"></stop></radialGradient></defs><svg width="400" height="400" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" x="56" y="56" alignment-baseline="middle" style="color: rgb(255, 255, 255);">
+    <g>
+        <path d="M0 26V73.735H40.58L0 26Z" fill="#22B573"></path>
+        <path d="M100 26V73.735H59.42L100 26Z" fill="#0F9DCE"></path>
+        <path d="M100 26L71.915 62.86L70.29 60.945L100 26Z" fill="#0E90BD"></path>
+        <path d="M40.58 26V73.735H81.16L40.58 26Z" fill="#29ABE2"></path>
+    </g>
+</svg>
+</svg>
