@@ -352,6 +352,8 @@ nav .logo h4 {
 }
 .github {
   margin-top: 2vw;
+  display: flex;
+  gap: 3vw;
 }
 .card .left a {
   text-decoration: none;
